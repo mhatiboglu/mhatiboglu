@@ -5,7 +5,8 @@
 I am a Software Engineer with a background in Navy and Engineering with experience building websites and web applications.
 I have experience in JavaScript / HTML / CSS / Sass / React  /Node.js / ES6 / Git / problem-solving.
 As a driven and self-motivated individual, I’m seeking a challenge, in transferring my skills learnt from my Computer Science degree and Navy experience towards Software Development to both develop and expand my current and evolving skill set.
-I'm open to working on permanent, contract and on a temporary basis. Currently learning new technologies and developing my skills in programing.
+Currently learning new technologies and developing my skills in programing.
+<!--I'm open to working on permanent, contract and on a temporary basis. )-->
 
 ---
 📫 How to reach me:
