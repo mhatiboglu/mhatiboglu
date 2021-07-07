@@ -46,7 +46,7 @@ Currently learning new technologies and developing my skills in programing.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhatiboglu&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Mhatiboglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhatiboglu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mhatiboglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhatiboglu&theme=radical)](https://github.com/mhatiboglu)
 
 ---
  🌱 I’m currently learning ...
