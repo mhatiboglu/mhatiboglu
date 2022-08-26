@@ -25,7 +25,6 @@ Currently learning new technologies and developing my skills in programing.
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="JavaScript" width="100" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" width="100" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
@@ -54,7 +53,6 @@ Currently learning new technologies and developing my skills in programing.
 ---
  🌱 I’m currently learning ...
  
- <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL" width="90" height="50"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
